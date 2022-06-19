@@ -1,0 +1,9 @@
+[
+  {"name": "Yamaha Konzertgitarre (akustisch)", "price": 200.00},
+  {"name": "Fender Stratocaster E-Gitarre", "price": 1700.00},
+  {"name": "Arturia Keylab 61 Keyboard", "price": 250.00},
+  {"name": "Roland Digitalpiano HP-702", "price": 1700.00 },
+  {"name": "Neumann TLM Mono Mikrofon Set", "price": 1200.00},
+  {"name": "Beyerdynamic DT 770 Pro Kopfhörer (250 OHM)", "price": 130.00},
+  {"name": "Focusrite Scarlett Audio Interface 4i4", "price": 280.00}
+]
